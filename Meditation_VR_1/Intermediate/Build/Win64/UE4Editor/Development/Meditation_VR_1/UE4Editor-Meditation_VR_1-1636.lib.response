@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Meditation_VR_1-1636.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\UE4Editor\Development\Meditation_VR_1\Meditation_VR_1.cpp.obj"
+"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\UE4Editor\Development\Meditation_VR_1\Meditation_VR_1GameModeBase.cpp.obj"
+"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\UE4Editor\Development\Meditation_VR_1\VRCharacter.cpp.obj"
+"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\UE4Editor\Development\Meditation_VR_1\Meditation_VR_1.init.gen.cpp.obj"
+"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\UE4Editor\Development\Meditation_VR_1\Meditation_VR_1GameModeBase.gen.cpp.obj"
+"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\UE4Editor\Development\Meditation_VR_1\VRCharacter.gen.cpp.obj"
+"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\UE4Editor\Development\Meditation_VR_1\PCLaunch.rc.res"
+/OUT:"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\UE4Editor\Development\Meditation_VR_1\UE4Editor-Meditation_VR_1-1636.lib"
