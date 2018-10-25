@@ -16,11 +16,11 @@
 	},
 	"BuildProducts": [
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-Meditation_VR_1-3440.dll",
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-Meditation_VR_1-9873.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-Meditation_VR_1-3440.pdb",
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-Meditation_VR_1-9873.pdb",
 			"Type": "SymbolFile"
 		},
 		{

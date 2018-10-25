@@ -1,0 +1,582 @@
+﻿Log file open, 10/22/18 23:45:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Meditation_VR_1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.193984
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[Engine]
+LogConfig: Warning: Failed to saved backup for config[Input]
+LogConfig: Warning: Failed to saved backup for config[Editor]
+LogConfig: Warning: Failed to saved backup for config[Compat]
+LogConfig: Warning: Failed to saved backup for config[Hardware]
+LogConfig: Warning: Failed to saved backup for config[GameUserSettings]
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogConfig: Warning: Failed to saved backup for config[EditorScriptingUtilities]
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogConfig: Warning: Failed to saved backup for config[PhysXVehicles]
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogConfig: Warning: Failed to saved backup for config[DatasmithImporter]
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  1.079s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.024s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.22-22.45.14:918][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.22-22.45.14:918][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.22-22.45.15:459][  0]LogConfig: Warning: Failed to saved backup for config[DeviceProfiles]
+[2018.10.22-22.45.15:868][  0]LogHAL: Display: Platform has ~ 8 GB [8513761280 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.22-22.45.15:868][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.22-22.45.15:869][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.22-22.45.15:923][  0]LogInit: Computer: DESKTOP-8QDTUDL
+[2018.10.22-22.45.15:923][  0]LogInit: User: Aidan
+[2018.10.22-22.45.15:923][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.22-22.45.15:923][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2018.10.22-22.45.15:924][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.22-22.45.15:924][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.22-22.45.15:924][  0]LogMemory: Process Physical Memory: 100.41 MB used, 100.41 MB peak
+[2018.10.22-22.45.15:924][  0]LogMemory: Process Virtual Memory: 84.24 MB used, 84.24 MB peak
+[2018.10.22-22.45.15:924][  0]LogMemory: Physical Memory: 4015.42 MB used,  4103.93 MB free, 8119.36 MB total
+[2018.10.22-22.45.15:924][  0]LogMemory: Virtual Memory: 485.22 MB used,  4103.93 MB free, 134217728.00 MB total
+[2018.10.22-22.45.16:959][  0]LogInit: Using OS detected language (en-US).
+[2018.10.22-22.45.16:959][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.22-22.45.17:086][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.22-22.45.18:599][  0]LogStreaming: Display: Took  1.641s to InitEngineTextLocalization.
+[2018.10.22-22.45.18:599][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.22-22.45.19:299][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.22-22.45.19:299][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.22-22.45.33:186][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.22-22.45.33:193][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.22-22.45.34:184][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2018.10.22-22.45.34:185][  0]LogD3D11RHI:       2010/0/4059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.22-22.45.34:207][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2018.10.22-22.45.34:208][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.22-22.45.34:213][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.22-22.45.34:213][  0]LogD3D11RHI:       0/0/4059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.22-22.45.34:213][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.22-22.45.34:239][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.22-22.45.34:240][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.22-22.45.34:240][  0]LogWindows: EnumDisplayDevices:
+[2018.10.22-22.45.34:240][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2018.10.22-22.45.34:241][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.10.22-22.45.34:242][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.10.22-22.45.34:243][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.22-22.45.34:243][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2018.10.22-22.45.34:243][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.22-22.45.34:243][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.22-22.45.34:243][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.10.22-22.45.34:421][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.22-22.45.34:511][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.22-22.45.34:592][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (F:/New Meditation/Meditation_VR_1/Intermediate/Shaders/WorkingDirectory/4360/).
+[2018.10.22-22.45.34:592][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aidan/AppData/Local/Temp/UnrealShaderWorkingDir/95E17BB84340C6BBAFB14B9185240158/'.
+[2018.10.22-22.45.38:311][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.22-22.45.38:329][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.22-22.45.38:372][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.22-22.45.38:444][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.22-22.45.38:604][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.22-22.45.38:667][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.22-22.45.38:720][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.22-22.45.38:755][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.22-22.45.38:803][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.22-22.45.39:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.22-22.45.39:734][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.22-22.45.40:067][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.22-22.45.40:067][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.22-22.45.40:253][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.22-22.45.40:253][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.22-22.45.40:381][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.22-22.45.40:536][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.22-22.45.40:686][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.22-22.45.40:792][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.22-22.45.40:860][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.22-22.45.40:860][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.22-22.45.45:237][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.22-22.45.45:237][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.22-22.45.45:238][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.22-22.46.00:584][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.22-22.46.03:183][  0]LogDerivedDataCache: Loaded boot cache 2.60s 72MB C:/Users/Aidan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.22-22.46.03:184][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aidan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.22-22.46.03:184][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/New Meditation/Meditation_VR_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.22-22.46.03:184][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.22-22.46.03:184][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/New Meditation/Meditation_VR_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.22-22.46.03:184][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.22-22.46.03:250][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.22-22.46.03:263][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aidan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.22-22.46.03:263][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.22-22.46.03:263][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.22-22.46.03:401][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.22-22.46.03:715][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.22-22.46.04:160][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.22-22.46.07:360][  0]LogAssetRegistry: FAssetRegistry took 0.1816 seconds to start up
+[2018.10.22-22.46.12:269][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.22-22.46.19:062][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.22-22.46.19:838][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.22-22.46.19:931][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.22-22.46.20:174][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.22-22.46.20:174][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.22-22.46.20:767][  0]LogNetVersion: Meditation_VR_1 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 699418697)
+[2018.10.22-22.46.32:951][  0]LogAssetRegistry: Error: Failed to open file for write F:/New Meditation/Meditation_VR_1/Intermediate/AssetRegistryCache/5a627529.bin
+[2018.10.22-22.46.49:082][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 16.262953 seconds
+[2018.10.22-22.46.49:266][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.22-22.46.49:267][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.22-22.46.49:267][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.22-22.47.28:153][  0]LogConfig: Warning: Failed to saved backup for config[InternationalizationExport]
+[2018.10.22-22.47.28:185][  0]LogConfig: Warning: Failed to saved backup for config[TranslationPickerSettings]
+[2018.10.22-22.47.29:623][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.22-22.47.29:790][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.22-22.47.33:350][  0]SourceControl: Source control is disabled
+[2018.10.22-22.47.33:351][  0]SourceControl: Source control is disabled
+[2018.10.22-22.47.33:477][  0]SourceControl: Source control is disabled
+[2018.10.22-22.47.33:649][  0]SourceControl: Source control is disabled
+[2018.10.22-22.47.34:521][  0]LogConfig: Warning: Failed to saved backup for config[Crypto]
+[2018.10.22-22.47.38:719][  0]LogAssetRegistry: Error: Failed to open file for write F:/New Meditation/Meditation_VR_1/Intermediate/CachedAssetRegistry.bin
+[2018.10.22-22.47.39:490][  0]LogConfig: Warning: Failed to saved backup for config[UnitTestStats]
+[2018.10.22-22.47.39:808][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.22-22.47.40:638][  0]LogOcInput: OculusInput pre-init called
+[2018.10.22-22.47.52:056][  0]LogEngine: Initializing Engine...
+[2018.10.22-22.47.52:100][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.22-22.47.52:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.22-22.47.52:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.22-22.47.52:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.22-22.47.52:157][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.22-22.47.52:824][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.22-22.47.53:183][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.22-22.47.53:205][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.22-22.47.53:435][  0]LogInit: FAudioDevice initialized.
+[2018.10.22-22.47.53:436][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.22-22.47.53:499][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Aidan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.22-22.47.53:517][  0]LogInit: Texture streaming: Enabled
+[2018.10.22-22.47.54:098][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.22-22.47.54:951][  0]LogInit: Transaction tracking system initialized
+[2018.10.22-22.47.55:759][  0]BlueprintLog: New page: Editor Load
+[2018.10.22-22.47.59:006][  0]LocalizationService: Localization service is disabled
+[2018.10.22-22.48.03:197][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.22-22.48.03:198][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.22-22.48.03:214][  0]LogFileCache: Scanning file cache for directory 'F:/New Meditation/Meditation_VR_1/Content/' took 0.03s
+[2018.10.22-22.48.03:214][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.22-22.48.03:214][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.22-22.48.03:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.22-22.48.03:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.22-22.48.03:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.22-22.48.08:988][  0]SourceControl: Source control is disabled
+[2018.10.22-22.48.08:988][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.22-22.48.08:992][  0]LightingResults: New page: Lighting Build
+[2018.10.22-22.48.09:143][  0]MapCheck: New page: Map Check
+[2018.10.22-22.48.09:143][  0]LightingResults: New page: Lighting Build
+[2018.10.22-22.48.10:329][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.22-22.48.10:676][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.22-22.48.10:771][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.22-22.48.10:918][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 146.406ms to complete.
+[2018.10.22-22.48.10:918][  0]LogFileHelpers: Loading map 'Template_Default' took 1.930
+[2018.10.22-22.48.13:542][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-22.48.13:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-22.48.13:595][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-22.48.13:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.22-22.48.13:806][  0]LogCollectionManager: Loaded 0 collections in 0.003232 seconds
+[2018.10.22-22.48.14:042][  0]LogFileCache: Scanning file cache for directory 'F:/New Meditation/Meditation_VR_1/Saved/Collections/' took 0.01s
+[2018.10.22-22.48.14:042][  0]LogFileCache: Scanning file cache for directory 'F:/New Meditation/Meditation_VR_1/Content/Developers/Aidan/Collections/' took 0.01s
+[2018.10.22-22.48.14:042][  0]LogFileCache: Scanning file cache for directory 'F:/New Meditation/Meditation_VR_1/Content/Collections/' took 0.01s
+[2018.10.22-22.48.14:042][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.22-22.48.14:130][  0]LogContentBrowser: Native class hierarchy populated in 0.0851 seconds. Added 2624 classes and 633 folders.
+[2018.10.22-22.48.14:604][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.10.22-22.48.18:889][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0023 seconds. Added 0 classes and 0 folders.
+[2018.10.22-22.48.19:227][  0]LogSlate: Took 0.022438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.22-22.48.19:264][  0]LogSlate: Took 0.030719 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.22-22.48.19:280][  0]LogSlate: Took 0.010735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.22-22.48.19:633][  0]LogRenderer: Reallocating scene render targets to support 836x380 Format 10 NumSamples 1 (Frame:1).
+[2018.10.22-22.48.20:464][  0]LogSlate: Took 0.042470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.22-22.48.21:757][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2018.10.22-22.48.21:757][  0]LogLoad: (Engine Initialization) Total time: 217.27 seconds
+[2018.10.22-22.48.21:758][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.22-22.48.22:024][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.22-22.48.23:240][  7]LogAssetRegistry: Asset discovery search completed in 135.9033 seconds
+[2018.10.22-22.48.23:286][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.22-22.48.23:286][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000377 seconds (updated 0 objects)
+[2018.10.22-22.49.54:430][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.22-22.50.12:129][167]LogSlate: Took 0.000547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.22-22.50.15:406][167]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.10.22-22.50.15:406][167]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.10.22-22.50.17:445][167]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.10.22-22.50.18:201][167]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.10.22-22.50.18:201][167]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X256)
+[2018.10.22-22.50.18:201][167]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.10.22-22.50.18:201][167]LogStaticMesh: Building static mesh Plane005...
+[2018.10.22-22.50.18:466][167]LogStaticMesh: Built static mesh [0.27s] /Game/Assets/Greybox/Plane005.Plane005
+[2018.10.22-22.50.18:955][167]LogStaticMesh: Building static mesh Plane003...
+[2018.10.22-22.50.18:965][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Greybox/Plane003.Plane003
+[2018.10.22-22.50.19:094][167]LogStaticMesh: Building static mesh Foliage012...
+[2018.10.22-22.50.19:239][167]LogStaticMesh: Built static mesh [0.15s] /Game/Assets/Greybox/Foliage012.Foliage012
+[2018.10.22-22.50.19:438][167]LogStaticMesh: Building static mesh Foliage011...
+[2018.10.22-22.50.19:566][167]LogStaticMesh: Built static mesh [0.17s] /Game/Assets/Greybox/Foliage011.Foliage011
+[2018.10.22-22.50.19:665][167]LogStaticMesh: Building static mesh Foliage010...
+[2018.10.22-22.50.19:809][167]LogStaticMesh: Built static mesh [0.14s] /Game/Assets/Greybox/Foliage010.Foliage010
+[2018.10.22-22.50.19:851][167]LogStaticMesh: Building static mesh Foliage009...
+[2018.10.22-22.50.19:943][167]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Greybox/Foliage009.Foliage009
+[2018.10.22-22.50.20:007][167]LogStaticMesh: Building static mesh Foliage008...
+[2018.10.22-22.50.20:145][167]LogStaticMesh: Built static mesh [0.16s] /Game/Assets/Greybox/Foliage008.Foliage008
+[2018.10.22-22.50.20:294][167]LogStaticMesh: Building static mesh Foliage007...
+[2018.10.22-22.50.20:466][167]LogStaticMesh: Built static mesh [0.22s] /Game/Assets/Greybox/Foliage007.Foliage007
+[2018.10.22-22.50.20:524][167]LogStaticMesh: Building static mesh Foliage005...
+[2018.10.22-22.50.20:588][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Foliage005.Foliage005
+[2018.10.22-22.50.20:615][167]LogStaticMesh: Building static mesh Foliage004...
+[2018.10.22-22.50.20:675][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Foliage004.Foliage004
+[2018.10.22-22.50.20:712][167]LogStaticMesh: Building static mesh Foliage003...
+[2018.10.22-22.50.20:762][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Foliage003.Foliage003
+[2018.10.22-22.50.20:786][167]LogStaticMesh: Building static mesh Foliage002...
+[2018.10.22-22.50.20:828][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Greybox/Foliage002.Foliage002
+[2018.10.22-22.50.20:838][167]LogMaterial: Display: Missing cached shader map for material Trunk, compiling. 
+[2018.10.22-22.50.21:339][167]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.22-22.50.21:339][167]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.22-22.50.21:339][167]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.22-22.50.21:351][167]LogMaterial: Display: Missing cached shader map for material Canopy, compiling. 
+[2018.10.22-22.50.21:449][167]LogMaterial: Display: Missing cached shader map for material Branch0, compiling. 
+[2018.10.22-22.50.21:599][167]LogStaticMesh: Building static mesh Foliage001...
+[2018.10.22-22.50.21:706][167]LogStaticMesh: Built static mesh [0.14s] /Game/Assets/Greybox/Foliage001.Foliage001
+[2018.10.22-22.50.21:727][167]LogStaticMesh: Building static mesh Cylinder046...
+[2018.10.22-22.50.21:735][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Greybox/Cylinder046.Cylinder046
+[2018.10.22-22.50.21:739][167]LogStaticMesh: Building static mesh Cylinder045...
+[2018.10.22-22.50.21:745][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Greybox/Cylinder045.Cylinder045
+[2018.10.22-22.50.21:837][167]LogStaticMesh: Building static mesh Cylinder006...
+[2018.10.22-22.50.21:840][167]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Greybox/Cylinder006.Cylinder006
+[2018.10.22-22.50.21:854][167]LogStaticMesh: Building static mesh Cylinder005...
+[2018.10.22-22.50.21:857][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder005.Cylinder005
+[2018.10.22-22.50.22:062][167]LogStaticMesh: Building static mesh Pillar_1...
+[2018.10.22-22.50.22:086][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Building/Pillar_1.Pillar_1
+[2018.10.22-22.50.22:144][167]LogStaticMesh: Building static mesh Bridge_Floor...
+[2018.10.22-22.50.22:151][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Bridge/Bridge_Floor_1.Bridge_Floor
+[2018.10.22-22.50.22:247][167]LogStaticMesh: Building static mesh Cylinder001...
+[2018.10.22-22.50.22:249][167]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Bridge/Cylinder001.Cylinder001
+[2018.10.22-22.50.22:325][167]LogStaticMesh: Building static mesh Cylinder002...
+[2018.10.22-22.50.22:328][167]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Bridge/Cylinder002.Cylinder002
+[2018.10.22-22.50.22:333][167]LogStaticMesh: Building static mesh Cylinder005...
+[2018.10.22-22.50.22:336][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Bridge/Cylinder005.Cylinder005
+[2018.10.22-22.50.22:359][167]LogStaticMesh: Building static mesh Cylinder006...
+[2018.10.22-22.50.22:362][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Bridge/Cylinder006.Cylinder006
+[2018.10.22-22.50.22:366][167]LogStaticMesh: Building static mesh Cylinder007...
+[2018.10.22-22.50.22:375][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bridge/Cylinder007.Cylinder007
+[2018.10.22-22.50.22:379][167]LogStaticMesh: Building static mesh Cylinder008...
+[2018.10.22-22.50.22:387][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bridge/Cylinder008.Cylinder008
+[2018.10.22-22.50.22:510][167]LogStaticMesh: Building static mesh Cylinder009...
+[2018.10.22-22.50.22:515][167]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Bridge/Cylinder009.Cylinder009
+[2018.10.22-22.50.22:520][167]LogStaticMesh: Building static mesh Cylinder010...
+[2018.10.22-22.50.22:528][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bridge/Cylinder010.Cylinder010
+[2018.10.22-22.50.22:639][167]LogStaticMesh: Building static mesh Main_Bridge...
+[2018.10.22-22.50.22:663][167]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Bridge/Main_Bridge_1.Main_Bridge
+[2018.10.22-22.50.22:737][167]LogStaticMesh: Building static mesh Cylinder019...
+[2018.10.22-22.50.22:738][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Greybox/Cylinder019.Cylinder019
+[2018.10.22-22.50.22:741][167]LogStaticMesh: Building static mesh Cylinder020...
+[2018.10.22-22.50.22:743][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder020.Cylinder020
+[2018.10.22-22.50.22:746][167]LogStaticMesh: Building static mesh Bridge_Floor...
+[2018.10.22-22.50.22:754][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bridge/Bridge_Floor.Bridge_Floor
+[2018.10.22-22.50.22:823][167]LogStaticMesh: Building static mesh Main_Bridge...
+[2018.10.22-22.50.22:863][167]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Bridge/Main_Bridge.Main_Bridge
+[2018.10.22-22.50.22:886][167]LogStaticMesh: Building static mesh Wooden_Bars...
+[2018.10.22-22.50.22:954][167]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Bridge/Wooden_Bars.Wooden_Bars
+[2018.10.22-22.50.22:972][167]LogStaticMesh: Building static mesh Cylinder035...
+[2018.10.22-22.50.23:012][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Greybox/Cylinder035.Cylinder035
+[2018.10.22-22.50.23:158][167]LogStaticMesh: Building static mesh Cylinder037...
+[2018.10.22-22.50.23:208][167]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Greybox/Cylinder037.Cylinder037
+[2018.10.22-22.50.23:323][167]LogStaticMesh: Building static mesh Cylinder034...
+[2018.10.22-22.50.23:365][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Greybox/Cylinder034.Cylinder034
+[2018.10.22-22.50.23:393][167]LogStaticMesh: Building static mesh Cylinder036...
+[2018.10.22-22.50.23:436][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Cylinder036.Cylinder036
+[2018.10.22-22.50.23:450][167]LogStaticMesh: Building static mesh Cylinder042...
+[2018.10.22-22.50.23:495][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Greybox/Cylinder042.Cylinder042
+[2018.10.22-22.50.23:577][167]LogStaticMesh: Building static mesh Cylinder043...
+[2018.10.22-22.50.23:619][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Cylinder043.Cylinder043
+[2018.10.22-22.50.24:470][167]LogStaticMesh: Building static mesh Box001...
+[2018.10.22-22.50.26:846][167]LogStaticMesh: Built static mesh [2.38s] /Game/Assets/Building/Box001.Box001
+[2018.10.22-22.50.27:251][167]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2018.10.22-22.50.27:328][167]LogStaticMesh: Building static mesh Box001...
+[2018.10.22-22.50.27:716][167]LogStaticMesh: Built static mesh [0.39s] /Game/Assets/Building/Box001_1.Box001
+[2018.10.22-22.50.27:742][167]LogStaticMesh: Building static mesh Bridge_Floor...
+[2018.10.22-22.50.27:754][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bridge/Bridge_Floor_2.Bridge_Floor
+[2018.10.22-22.50.27:789][167]LogStaticMesh: Building static mesh Main_Bridge...
+[2018.10.22-22.50.27:829][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Bridge/Main_Bridge_2.Main_Bridge
+[2018.10.22-22.50.27:841][167]LogStaticMesh: Building static mesh Wooden_Bars...
+[2018.10.22-22.50.27:895][167]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Bridge/Wooden_Bars_1.Wooden_Bars
+[2018.10.22-22.50.27:977][167]LogStaticMesh: Building static mesh Cylinder029...
+[2018.10.22-22.50.27:979][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder029.Cylinder029
+[2018.10.22-22.50.28:022][167]LogStaticMesh: Building static mesh Cylinder030...
+[2018.10.22-22.50.28:024][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder030.Cylinder030
+[2018.10.22-22.50.28:032][167]LogStaticMesh: Building static mesh Cylinder033...
+[2018.10.22-22.50.28:093][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Cylinder033.Cylinder033
+[2018.10.22-22.50.28:101][167]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.10.22-22.50.28:139][167]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.10.22-22.50.28:188][167]LogStaticMesh: Building static mesh Box003...
+[2018.10.22-22.50.28:202][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Greybox/Box003.Box003
+[2018.10.22-22.50.28:209][167]LogStaticMesh: Building static mesh Box002...
+[2018.10.22-22.50.28:224][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Greybox/Box002.Box002
+[2018.10.22-22.50.28:237][167]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.10.22-22.50.28:275][167]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2018.10.22-22.50.28:313][167]LogMaterial: Display: Missing cached shader map for material 03_-_Default_ncl1_1, compiling. 
+[2018.10.22-22.50.28:375][167]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2018.10.22-22.50.28:440][167]LogMaterial: Display: Missing cached shader map for material 08_-_Default, compiling. 
+[2018.10.22-22.50.28:476][167]LogStaticMesh: Building static mesh Cylinder011...
+[2018.10.22-22.50.28:479][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder011.Cylinder011
+[2018.10.22-22.50.28:515][167]LogStaticMesh: Building static mesh Cylinder013...
+[2018.10.22-22.50.28:518][167]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Greybox/Cylinder013.Cylinder013
+[2018.10.22-22.50.28:677][167]LogStaticMesh: Building static mesh Cylinder010...
+[2018.10.22-22.50.28:679][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder010.Cylinder010
+[2018.10.22-22.50.28:774][167]LogStaticMesh: Building static mesh Cylinder012...
+[2018.10.22-22.50.28:776][167]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Greybox/Cylinder012.Cylinder012
+[2018.10.22-22.50.29:708][167]LogStaticMesh: Building static mesh Box001...
+[2018.10.22-22.50.31:944][167]LogShaderCompilers: Display: Shaders left to compile 302
+[2018.10.22-22.50.31:944][167]LogStaticMesh: Built static mesh [2.24s] /Game/Assets/Building/Box001_2.Box001
+[2018.10.22-22.50.32:234][167]LogStaticMesh: Building static mesh Box005...
+[2018.10.22-22.50.32:239][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Box005.Box005
+[2018.10.22-22.50.32:265][167]LogStaticMesh: Building static mesh Box022...
+[2018.10.22-22.50.32:303][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Box022.Box022
+[2018.10.22-22.50.32:309][167]LogStaticMesh: Building static mesh Box023...
+[2018.10.22-22.50.32:332][167]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Greybox/Box023.Box023
+[2018.10.22-22.50.32:339][167]LogStaticMesh: Building static mesh Box024...
+[2018.10.22-22.50.32:378][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Greybox/Box024.Box024
+[2018.10.22-22.50.32:384][167]LogStaticMesh: Building static mesh Box025...
+[2018.10.22-22.50.32:418][167]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Greybox/Box025.Box025
+[2018.10.22-22.50.32:420][167]LogStaticMesh: Building static mesh Box027...
+[2018.10.22-22.50.32:428][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Greybox/Box027.Box027
+[2018.10.22-22.50.32:429][167]LogStaticMesh: Building static mesh Box029...
+[2018.10.22-22.50.32:438][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Greybox/Box029.Box029
+[2018.10.22-22.50.32:455][167]LogStaticMesh: Building static mesh Box030...
+[2018.10.22-22.50.32:462][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Greybox/Box030.Box030
+[2018.10.22-22.50.32:464][167]LogStaticMesh: Building static mesh Cylinder001...
+[2018.10.22-22.50.32:469][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder001.Cylinder001
+[2018.10.22-22.50.32:471][167]LogStaticMesh: Building static mesh Cylinder002...
+[2018.10.22-22.50.32:474][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder002.Cylinder002
+[2018.10.22-22.50.32:475][167]LogStaticMesh: Building static mesh Cylinder003...
+[2018.10.22-22.50.32:477][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder003.Cylinder003
+[2018.10.22-22.50.32:479][167]LogStaticMesh: Building static mesh Cylinder004...
+[2018.10.22-22.50.32:481][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder004.Cylinder004
+[2018.10.22-22.50.32:483][167]LogStaticMesh: Building static mesh Cylinder007...
+[2018.10.22-22.50.32:485][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder007.Cylinder007
+[2018.10.22-22.50.32:560][167]LogStaticMesh: Building static mesh Cylinder008...
+[2018.10.22-22.50.32:562][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Greybox/Cylinder008.Cylinder008
+[2018.10.22-22.50.32:563][167]LogStaticMesh: Building static mesh Cylinder009...
+[2018.10.22-22.50.32:565][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder009.Cylinder009
+[2018.10.22-22.50.32:567][167]LogStaticMesh: Building static mesh Cylinder014...
+[2018.10.22-22.50.32:569][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder014.Cylinder014
+[2018.10.22-22.50.32:571][167]LogStaticMesh: Building static mesh Cylinder015...
+[2018.10.22-22.50.32:573][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder015.Cylinder015
+[2018.10.22-22.50.32:575][167]LogStaticMesh: Building static mesh Cylinder016...
+[2018.10.22-22.50.32:577][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder016.Cylinder016
+[2018.10.22-22.50.32:579][167]LogStaticMesh: Building static mesh Cylinder017...
+[2018.10.22-22.50.32:582][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder017.Cylinder017
+[2018.10.22-22.50.32:648][167]LogStaticMesh: Building static mesh Cylinder018...
+[2018.10.22-22.50.32:650][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder018.Cylinder018
+[2018.10.22-22.50.32:700][167]LogStaticMesh: Building static mesh Cylinder021...
+[2018.10.22-22.50.32:703][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder021.Cylinder021
+[2018.10.22-22.50.32:704][167]LogStaticMesh: Building static mesh Cylinder022...
+[2018.10.22-22.50.32:706][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder022.Cylinder022
+[2018.10.22-22.50.32:804][167]LogStaticMesh: Building static mesh Cylinder023...
+[2018.10.22-22.50.32:806][167]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/Greybox/Cylinder023.Cylinder023
+[2018.10.22-22.50.32:823][167]LogStaticMesh: Building static mesh Cylinder024...
+[2018.10.22-22.50.32:825][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder024.Cylinder024
+[2018.10.22-22.50.32:827][167]LogStaticMesh: Building static mesh Cylinder025...
+[2018.10.22-22.50.32:829][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder025.Cylinder025
+[2018.10.22-22.50.32:831][167]LogStaticMesh: Building static mesh Cylinder026...
+[2018.10.22-22.50.32:833][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder026.Cylinder026
+[2018.10.22-22.50.32:842][167]LogStaticMesh: Building static mesh Cylinder027...
+[2018.10.22-22.50.32:844][167]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Greybox/Cylinder027.Cylinder027
+[2018.10.22-22.50.32:846][167]LogStaticMesh: Building static mesh Cylinder028...
+[2018.10.22-22.50.32:848][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder028.Cylinder028
+[2018.10.22-22.50.32:859][167]LogStaticMesh: Building static mesh Cylinder038...
+[2018.10.22-22.50.32:923][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Cylinder038.Cylinder038
+[2018.10.22-22.50.32:944][167]LogStaticMesh: Building static mesh Cylinder039...
+[2018.10.22-22.50.33:008][167]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Greybox/Cylinder039.Cylinder039
+[2018.10.22-22.50.33:030][167]LogStaticMesh: Building static mesh Cylinder040...
+[2018.10.22-22.50.33:098][167]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Greybox/Cylinder040.Cylinder040
+[2018.10.22-22.50.33:112][167]LogStaticMesh: Building static mesh Cylinder041...
+[2018.10.22-22.50.33:196][167]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Greybox/Cylinder041.Cylinder041
+[2018.10.22-22.50.33:222][167]LogStaticMesh: Building static mesh Cylinder044...
+[2018.10.22-22.50.33:225][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Greybox/Cylinder044.Cylinder044
+[2018.10.22-22.50.33:233][167]LogMaterial: Display: Missing cached shader map for material 08_-_Default, compiling. 
+[2018.10.22-22.50.33:266][167]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2018.10.22-22.50.33:309][167]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2018.10.22-22.50.33:339][167]LogMaterial: Display: Missing cached shader map for material Material__896, compiling. 
+[2018.10.22-22.50.33:409][167]LogMaterial: Display: Missing cached shader map for material Material__888, compiling. 
+[2018.10.22-22.50.33:472][167]LogMaterial: Display: Missing cached shader map for material Material__893, compiling. 
+[2018.10.22-22.50.33:520][167]LogMaterial: Display: Missing cached shader map for material Material__902, compiling. 
+[2018.10.22-22.50.33:562][167]LogMaterial: Display: Missing cached shader map for material Material__899, compiling. 
+[2018.10.22-22.50.33:614][167]LogMaterial: Display: Missing cached shader map for material 03_-_Default_ncl1_2, compiling. 
+[2018.10.22-22.50.33:656][167]LogAIModule: Creating AISystem for world ZenGarden
+[2018.10.22-22.50.33:716][167]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ZenGarden.ZenGarden
+[2018.10.22-22.50.34:549][167]LogShaderCompilers: Display: Shaders left to compile 544
+[2018.10.22-22.50.34:549][167]Cmd: MAP LOAD FILE="F:/New Meditation/Meditation_VR_1/Content/Maps/ZenGarden.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.22-22.50.34:550][167]LightingResults: New page: Lighting Build
+[2018.10.22-22.50.34:552][167]LoadErrors: New page: Loading map: ZenGarden.umap
+[2018.10.22-22.50.34:553][167]MapCheck: New page: Map Check
+[2018.10.22-22.50.34:553][167]LightingResults: New page: Lighting Build
+[2018.10.22-22.50.34:936][167]LogShaderCompilers: Display: Shaders left to compile 534
+[2018.10.22-22.50.36:122][167]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.22-22.50.37:138][167]LogShaderCompilers: Display: Shaders left to compile 524
+[2018.10.22-22.50.37:138][167]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.22-22.50.37:360][167]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 222.208ms to complete.
+[2018.10.22-22.50.37:364][167]LogFileHelpers: Loading map 'ZenGarden' took 2.816
+[2018.10.22-22.50.40:369][171]LogShaderCompilers: Display: Shaders left to compile 514
+[2018.10.22-22.50.42:133][174]LogShaderCompilers: Display: Shaders left to compile 504
+[2018.10.22-22.50.42:393][178]LogShaderCompilers: Display: Shaders left to compile 494
+[2018.10.22-22.50.49:178][284]LogShaderCompilers: Display: Shaders left to compile 484
+[2018.10.22-22.50.49:205][285]LogShaderCompilers: Display: Shaders left to compile 474
+[2018.10.22-22.50.52:569][352]LogShaderCompilers: Display: Shaders left to compile 464
+[2018.10.22-22.50.55:039][408]LogShaderCompilers: Display: Shaders left to compile 454
+[2018.10.22-22.50.57:164][452]LogShaderCompilers: Display: Shaders left to compile 444

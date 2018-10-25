@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeMeditation_VR_1_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/Meditation_VR_1",
 				PKG_CompiledIn | 0x00000000,
-				0x6FA29332,
-				0x4DCB989B,
+				0xCA5A44E0,
+				0xE3671F25,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

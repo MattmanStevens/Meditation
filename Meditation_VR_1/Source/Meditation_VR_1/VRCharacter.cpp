@@ -4,7 +4,8 @@
 #include "Camera/CameraComponent.h"
 #include "Components/InputComponent.h"
 #include "MotionControllerComponent.h"
-#include "XRMotionControllerBase.h"
+#include "HandController.h"
+#include "Engine/World.h"
 
 // Sets default values
 AVRCharacter::AVRCharacter()
@@ -20,29 +21,28 @@ AVRCharacter::AVRCharacter()
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
 	Camera->SetupAttachment(VRRoot);
 
-	// Create a default Left Motion Controller sub-object
-	LeftController = CreateDefaultSubobject<UMotionControllerComponent>(TEXT("LeftController"));
-	LeftController->SetupAttachment(VRRoot);
-	LeftController->SetTrackingSource(EControllerHand::Left);
-	LeftController->SetShowDeviceModel(true);
-	LeftController->bDisplayDeviceModel = true;
-	//LeftController->SetDisplayModelSource(TEXT("OculusHMD"));
-
-	// Create a default Right Motion Controller sub - object
-	RightController = CreateDefaultSubobject<UMotionControllerComponent>(TEXT("RightController"));
-	RightController->SetupAttachment(VRRoot);
-	RightController->SetTrackingSource(EControllerHand::Right);
-	RightController->SetShowDeviceModel(true);
-	RightController->bDisplayDeviceModel = true;
-	//RightController->SetDisplayModelSource(TEXT("OculusHMD"));
-
 }
+
 
 // Called when the game starts or when spawned
 void AVRCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
+	LeftController = GetWorld()->SpawnActor<AHandController>(HandControllerClass);
+	if (LeftController != nullptr)
+	{
+		LeftController->AttachToComponent(VRRoot, FAttachmentTransformRules::KeepRelativeTransform);
+		LeftController->SetHand(EControllerHand::Left);
+	}
+
+	RightController = GetWorld()->SpawnActor<AHandController>(HandControllerClass);
+	if (RightController != nullptr)
+	{
+		RightController->AttachToComponent(VRRoot, FAttachmentTransformRules::KeepRelativeTransform);
+		RightController->SetHand(EControllerHand::Right);
+	}
+
 }
 
 // Called every frame

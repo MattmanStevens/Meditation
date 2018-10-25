@@ -184,11 +184,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"
-/I C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine
-/Yc"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"C:\Users\Aidan\Documents\Projects\RIGPR\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.h.obj"
+/I C:\Users\Aidan\Documents\Meditation\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine
+/Yc"C:\Users\Aidan\Documents\Meditation\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Aidan\Documents\Meditation\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Aidan\Documents\Meditation\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\Users\Aidan\Documents\Meditation\Meditation_VR_1\Intermediate\Build\Win64\Meditation_VR_1Editor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4

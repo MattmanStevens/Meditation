@@ -31,7 +31,8 @@ private:
 	void MoveRight(float throttle);
 
 
-private:
+private: // Configuration Variables
+
 	// Set up HMD Camera Component
 	UPROPERTY()
 	class UCameraComponent* Camera;
@@ -40,12 +41,16 @@ private:
 	// Set up VR Root Component
 	class USceneComponent* VRRoot;
 
-	UPROPERTY(EditAnywhere)
+	UPROPERTY()
 	// Set up Left Motion Controller
-	class UMotionControllerComponent* LeftController;
+	class AHandController* LeftController;
 
-	UPROPERTY(EditAnywhere)
+	UPROPERTY()
 	// Set up Right Motion Controller
-	class UMotionControllerComponent* RightController;
+	class AHandController* RightController;
+
+	UPROPERTY(EditDefaultsOnly)
+	TSubclassOf<AHandController> HandControllerClass;
+
 	
 };

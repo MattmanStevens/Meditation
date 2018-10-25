@@ -1,56 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <ItemGroup>
-    <None Include="..\..\Meditation_VR_1.uproject" />
-    <Filter Include="Source">
-      <UniqueIdentifier>{38A13515-D78A-4624-AB2B-98712FDDF3AC}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Source\Meditation_VR_1.Target.cs">
-      <Filter>Source</Filter>
-    </None>
-    <None Include="..\..\Source\Meditation_VR_1Editor.Target.cs">
-      <Filter>Source</Filter>
-    </None>
-    <Filter Include="Config">
-      <UniqueIdentifier>{CFA1C948-B20F-40ED-A7A7-8FD3D158A0C3}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultGame.ini">
-      <Filter>Config</Filter>
-    </None>
-    <Filter Include="Source\Meditation_VR_1">
-      <UniqueIdentifier>{3AC47428-709C-4D6E-9D9E-4F92CA4F628D}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Source\Meditation_VR_1\Meditation_VR_1.Build.cs">
-      <Filter>Source\Meditation_VR_1</Filter>
-    </None>
-    <ClCompile Include="..\..\Source\Meditation_VR_1\Meditation_VR_1.cpp">
-      <Filter>Source\Meditation_VR_1</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Meditation_VR_1\Meditation_VR_1.h">
-      <Filter>Source\Meditation_VR_1</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Meditation_VR_1\Meditation_VR_1GameModeBase.cpp">
-      <Filter>Source\Meditation_VR_1</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Meditation_VR_1\Meditation_VR_1GameModeBase.h">
-      <Filter>Source\Meditation_VR_1</Filter>
-    </ClInclude>
-    <None Include="cpp.hint" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Meditation_VR_1\VRCharacter.h">
-      <Filter>Source\Meditation_VR_1</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\Meditation_VR_1\VRCharacter.cpp">
-      <Filter>Source\Meditation_VR_1</Filter>
-    </ClCompile>
-  </ItemGroup>
+	<ItemGroup>
+		<None Include="..\..\Meditation_VR_1.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{32533121-9CCA-4642-89F7-D561BACDD2B2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Meditation_VR_1.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Meditation_VR_1Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{286C6A3C-5E38-4A7F-82DE-C1083B194900}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Meditation_VR_1">
+			<UniqueIdentifier>{DFD16687-7EFF-47DA-B328-CAF595DB971F}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Meditation_VR_1\HandController.cpp">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Meditation_VR_1\HandController.h">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Meditation_VR_1\Meditation_VR_1.Build.cs">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Meditation_VR_1\Meditation_VR_1.cpp">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Meditation_VR_1\Meditation_VR_1.h">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Meditation_VR_1\Meditation_VR_1GameModeBase.cpp">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Meditation_VR_1\Meditation_VR_1GameModeBase.h">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Meditation_VR_1\VRCharacter.cpp">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Meditation_VR_1\VRCharacter.h">
+			<Filter>Source\Meditation_VR_1</Filter>
+		</ClInclude >
+	</ItemGroup>
 </Project>
